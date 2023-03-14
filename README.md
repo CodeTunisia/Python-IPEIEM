@@ -1,5 +1,9 @@
-# Python-IPEIEM
-Formation Python - IPEIEM
+# Workshop : Compétences numériques pour les classes préparatoires
+
+<center>
+ <img src="affiche2023.jpg" width="500"
+     height="800">
+</center>
 
 ## Jour I : 15 mars 2023
 * [Motivation]()
