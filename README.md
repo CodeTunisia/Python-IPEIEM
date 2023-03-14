@@ -7,7 +7,7 @@
 
 ## Jour I : 15 mars 2023
 * [Motivation]()
-* [Introduction aux librairies scientifiques (Numpy et Matplotlib)]()
+* [Introduction aux librairies scientifiques (Numpy et Matplotlib)](https://colab.research.google.com/github/CodeTunisia/Python-IPEIEM/blob/main/jour1/numpy%26matplotlib.ipynb)
 * [Exercices]()
 
 
