@@ -2,7 +2,7 @@
 
 <center>
  <img src="affiche2023.jpg" width="500"
-     height="800">
+     height="700">
 </center>
 
 ## Jour I : 15 mars 2023
