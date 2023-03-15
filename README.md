@@ -6,9 +6,8 @@
 </center>
 
 ## Jour I : 15 mars 2023
-* [Motivation]()
 * [Introduction aux librairies scientifiques (Numpy et Matplotlib)](https://colab.research.google.com/github/CodeTunisia/Python-IPEIEM/blob/main/jour1/numpy%26matplotlib.ipynb)
-* [Exercices]()
+* [Exercices](https://colab.research.google.com/github/CodeTunisia/Python-IPEIEM/blob/main/jour1/Exercices.ipynb)
 
 
 ## Jour II : 16 mars 2023
